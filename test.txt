@@ -1,3 +1,0 @@
-This is my first commit
-
-And here we go with commit #2!
